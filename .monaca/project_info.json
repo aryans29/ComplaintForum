@@ -1,0 +1,50 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca@3.1.0",
+        "mobi.monaca.plugins.datepicker@1.0.1",
+        "mobi.monaca.plugins.MonacaBackend@1.3.0"
+    ],
+    "framework_version": "3.5",
+    "xcode_version": "8",
+    "cordova_version": "6.5",
+    "plugin_settings": {
+        "cordova-plugin-geolocation": {
+            "variables": []
+        },
+        "cordova-plugin-crosswalk-webview": {
+            "variables": [
+                "XWALK_VERSION=23.53.589.4"
+            ],
+            "additional_params": {
+                "arch": "x86"
+            }
+        }
+    },
+    "external_plugins": [
+        "cordova-plugin-splashscreen@4.0.3",
+        "cordova-plugin-device@1.1.6",
+        "cordova-plugin-device-orientation@1.0.7",
+        "cordova-plugin-statusbar@2.2.3",
+        "cordova-plugin-file@4.3.3",
+        "cordova-plugin-device-motion@1.2.5",
+        "cordova-plugin-file-transfer@1.6.3",
+        "cordova-plugin-geolocation@2.4.3",
+        "cordova-plugin-globalization@1.0.7",
+        "cordova-plugin-inappbrowser@1.7.1",
+        "cordova-plugin-network-information@1.3.3",
+        "cordova-plugin-vibration@2.1.5",
+        "cordova-plugin-dialogs@1.3.3",
+        "cordova-plugin-media@3.0.1",
+        "cordova-plugin-whitelist@1.3.1",
+        "cordova-plugin-crosswalk-webview@2.3.0"
+    ],
+    "title-ja": "",
+    "title-en": "",
+    "description-ja": "",
+    "description-en": "",
+    "category": "User Template",
+    "platform": [
+        "android"
+    ],
+    "name": "generated-1444409236-55f32400fd17349c7d36c4cc"
+}

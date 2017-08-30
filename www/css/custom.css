@@ -1,0 +1,57 @@
+/* This is a CSS file */
+
+/*for compliant dashboard*/
+.comp_dshbrd
+{
+    width:100%;
+    height: auto;
+    float: left;
+    border-collapse:collapse;
+}
+.table_row
+{
+    height: 60px;
+    width : 100%;
+}
+
+.table_container
+{
+    height: auto;
+    width: 100%;
+}
+
+.LoginPage
+{
+    margin-top: 2%;
+    
+}
+.header
+{
+    height: 60px;
+    font-size: 8;
+    font-weight: bold;
+}
+
+.complaintsHeader
+{
+    height: 50px;
+    font-size: 31px; 
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.tdHead
+{
+     font-weight: bold;
+     vertical-align: text-top;
+     float:left;
+     font-size:30px;
+     margin-top: -5px;
+}
+
+.tdDistance
+{
+    font-weight: bold;
+    text-align: left;
+    font-size: 3em; 
+}
